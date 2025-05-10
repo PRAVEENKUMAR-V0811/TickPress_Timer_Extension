@@ -1,0 +1,19 @@
+{
+    "manifest_version" : 3,
+    "name" : "TickPress",
+    "version": "1.0",
+    "description": "Press to Tick - Track time while doing certain thing",
+    "permissions": ["storage"],
+    "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

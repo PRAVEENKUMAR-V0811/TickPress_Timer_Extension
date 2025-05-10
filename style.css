@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
+  #timerDisplay {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 10px 0 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .green  { background-color: #4CAF50; color: white; }
+  .orange { background-color: #FF9800; color: white; }
+  .yellow { background-color: #FFEB3B; color: black; }
+  .red    { background-color: #F44336; color: white; }
+  
+  #lapseDisplay {
+    font-size: 18px;
+    color: #444;
+    margin-top: 10px;
+    font-weight: 500;
+  }
+  
