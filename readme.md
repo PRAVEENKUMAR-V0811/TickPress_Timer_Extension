@@ -13,6 +13,11 @@
 - 📋 **Lapse Display** – View all recorded lapses inside the popup interface.
 
 ---
+## Screenshots
+
+![TickPress Extension Screenshot](./TickPress_Snap.png)
+
+---
 
 ## 👥 Who Is It For?
 
@@ -37,7 +42,7 @@ TickPress is built for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tickpress.git
+   git clone https://github.com/PRAVEENKUMAR-V0811/TickPress_Timer_Extension.git
 2. Open Chrome and go to: chrome://extensions/
 
 3. Enable Developer Mode (toggle in the top-right)
@@ -51,3 +56,11 @@ TickPress is built for:
 ## 📬 Feedback & Contributions
 Contributions, issues, and feature requests are welcome!
 Feel free to open an issue or submit a pull request.
+
+---
+
+## 👨‍💻 Author
+**Praveen Kumar** <br>
+*B.E. Artificial Intelligence and Machine Learning* <br>
+*praveenkumarv0811@gmail.com* <br>
+[Portfolio](https://buildwithpraveen.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/praveenkumarv08)
